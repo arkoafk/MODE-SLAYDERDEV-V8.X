@@ -9265,3 +9265,1791 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [23:26:44] [chat] [kitsori]: kitsori
 [23:26:44] kitsori[0] ShowCefPublic(OnPlayerDeviceLost[146]) pID = 5
 [23:35:20] mysql stat => Uptime: 2541  Threads: 5  Questions: 1393  Slow queries: 0  Opens: 296  Flush tables: 1  Open tables: 289  Queries per second avg: 0.548
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:53:15] filterscripts = ""  (string)
+[15:53:15] 
+[15:53:15] Server Plugins
+[15:53:15] --------------
+[15:53:15]  Loading plugin: crashdetect.dll
+[15:53:15]   CrashDetect plugin 4.21
+[15:53:15]   Loaded.
+[15:53:15]  Loading plugin: mysql.dll
+[15:53:15]  >> plugin.mysql: R41-3 successfully loaded.
+[15:53:15]   Loaded.
+[15:53:15]  Loading plugin: pawncmd.dll
+[15:53:16] [Pawn.CMD] plugin v3.4.0 loading...
+[15:53:16] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[15:53:16]   Loaded.
+[15:53:16]  Loading plugin: pawnraknet.dll
+[15:53:16] [Pawn.RakNet] plugin v1.5.1 loading...
+[15:53:16] [Pawn.RakNet] 
+
+    | Pawn.RakNet 1.5.1 | 2016 - 2021
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Sep 26 2021 at 12:04:10
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.RakNet
+    |--------------------------------------------------------------
+    | Wiki: https://github.com/katursis/Pawn.RakNet/wiki
+
+[15:53:16]   Loaded.
+[15:53:16]  Loading plugin: pawnregex.dll
+[15:53:16] [Pawn.Regex] plugin v1.2.3 loading...
+[15:53:16] [Pawn.Regex] 
+
+    | Pawn.Regex 1.2.3 | 2016 - 2021
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Sep 26 2021 at 11:59:38
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.Regex
+
+[15:53:16]   Loaded.
+[15:53:16]  Loading plugin: sscanf.dll
+[15:53:16] 
+
+[15:53:16]  ===============================
+
+[15:53:16]       sscanf plugin loaded.     
+
+[15:53:16]          Version:  2.8.3        
+
+[15:53:16]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:53:16]  ===============================
+
+[15:53:16]   Loaded.
+[15:53:16]  Loading plugin: streamer.dll
+[15:53:16] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[15:53:16]   Loaded.
+[15:53:16]  Loading plugin: TOTP.dll
+[15:53:16] TOTP plugin v1.0.1 by Games loaded.
+[15:53:16]   Loaded.
+[15:53:16]  Loading plugin: SKY.dll
+[15:53:16] 
+[15:53:16]  ===============================
+[15:53:16]    
+[15:53:16]    < SKY - 2.4.2 >
+[15:53:16]    
+[15:53:16]    (c) 2008 - Present | YSF Maintainers
+[15:53:16]    (c) 2015 | Oscar "Slice" Broman
+[15:53:16]    
+[15:53:16]    Server Version: 0.3.7 R2
+[15:53:16]    Operating System: Windows
+[15:53:16]    Built on: Oct  6 2025 at 10:06:48
+[15:53:16]    
+[15:53:16]  ===============================
+[15:53:16] 
+[15:53:16]   Loaded.
+[15:53:16]  Loading plugin: log-plugin.dll
+[15:53:17]  >> plugin.log: vv0.5 successfully loaded.
+[15:53:17]   Loaded.
+[15:53:17]  Loaded 10 plugins.
+
+[15:53:17] 
+[15:53:17] Filterscripts
+[15:53:17] ---------------
+[15:53:17]   Loaded 0 filterscripts.
+
+[15:53:17] [TP]: Все входы/выходы созданы
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:25:01] filterscripts = ""  (string)
+[18:25:01] 
+[18:25:01] Server Plugins
+[18:25:01] --------------
+[18:25:01]  Loading plugin: crashdetect.dll
+[18:25:01]   CrashDetect plugin 4.21
+[18:25:01]   Loaded.
+[18:25:01]  Loading plugin: mysql.dll
+[18:25:01]  >> plugin.mysql: R41-3 successfully loaded.
+[18:25:01]   Loaded.
+[18:25:01]  Loading plugin: pawncmd.dll
+[18:25:01] [Pawn.CMD] plugin v3.4.0 loading...
+[18:25:01] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[18:25:01]   Loaded.
+[18:25:01]  Loading plugin: pawnraknet.dll
+[18:25:01] [Pawn.RakNet] plugin v1.5.1 loading...
+[18:25:01] [Pawn.RakNet] 
+
+    | Pawn.RakNet 1.5.1 | 2016 - 2021
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Sep 26 2021 at 12:04:10
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.RakNet
+    |--------------------------------------------------------------
+    | Wiki: https://github.com/katursis/Pawn.RakNet/wiki
+
+[18:25:01]   Loaded.
+[18:25:01]  Loading plugin: pawnregex.dll
+[18:25:01] [Pawn.Regex] plugin v1.2.3 loading...
+[18:25:01] [Pawn.Regex] 
+
+    | Pawn.Regex 1.2.3 | 2016 - 2021
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Sep 26 2021 at 11:59:38
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.Regex
+
+[18:25:01]   Loaded.
+[18:25:01]  Loading plugin: sscanf.dll
+[18:25:01] 
+
+[18:25:01]  ===============================
+
+[18:25:01]       sscanf plugin loaded.     
+
+[18:25:01]          Version:  2.8.3        
+
+[18:25:01]   (c) 2018 Alex "Y_Less" Cole  
+
+[18:25:01]  ===============================
+
+[18:25:01]   Loaded.
+[18:25:01]  Loading plugin: streamer.dll
+[18:25:01] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[18:25:01]   Loaded.
+[18:25:01]  Loading plugin: TOTP.dll
+[18:25:01] TOTP plugin v1.0.1 by Games loaded.
+[18:25:01]   Loaded.
+[18:25:01]  Loading plugin: SKY.dll
+[18:25:01] 
+[18:25:01]  ===============================
+[18:25:01]    
+[18:25:01]    < SKY - 2.4.2 >
+[18:25:01]    
+[18:25:01]    (c) 2008 - Present | YSF Maintainers
+[18:25:01]    (c) 2015 | Oscar "Slice" Broman
+[18:25:01]    
+[18:25:01]    Server Version: 0.3.7 R2
+[18:25:01]    Operating System: Windows
+[18:25:01]    Built on: Oct  6 2025 at 10:06:48
+[18:25:01]    
+[18:25:01]  ===============================
+[18:25:01] 
+[18:25:01]   Loaded.
+[18:25:01]  Loading plugin: log-plugin.dll
+[18:25:01]  >> plugin.log: vv0.5 successfully loaded.
+[18:25:01]   Loaded.
+[18:25:01]  Loaded 10 plugins.
+
+[18:25:01] 
+[18:25:01] Filterscripts
+[18:25:01] ---------------
+[18:25:01]   Loaded 0 filterscripts.
+
+[18:25:01] [TP]: Все входы/выходы созданы
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:25:09] filterscripts = ""  (string)
+[18:25:09] 
+[18:25:09] Server Plugins
+[18:25:09] --------------
+[18:25:09]  Loading plugin: crashdetect.dll
+[18:25:09]   CrashDetect plugin 4.21
+[18:25:09]   Loaded.
+[18:25:09]  Loading plugin: mysql.dll
+[18:25:09]  >> plugin.mysql: R41-3 successfully loaded.
+[18:25:09]   Loaded.
+[18:25:09]  Loading plugin: pawncmd.dll
+[18:25:09] [Pawn.CMD] plugin v3.4.0 loading...
+[18:25:09] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[18:25:09]   Loaded.
+[18:25:09]  Loading plugin: pawnraknet.dll
+[18:25:09] [Pawn.RakNet] plugin v1.5.1 loading...
+[18:25:09] [Pawn.RakNet] 
+
+    | Pawn.RakNet 1.5.1 | 2016 - 2021
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Sep 26 2021 at 12:04:10
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.RakNet
+    |--------------------------------------------------------------
+    | Wiki: https://github.com/katursis/Pawn.RakNet/wiki
+
+[18:25:09]   Loaded.
+[18:25:09]  Loading plugin: pawnregex.dll
+[18:25:09] [Pawn.Regex] plugin v1.2.3 loading...
+[18:25:09] [Pawn.Regex] 
+
+    | Pawn.Regex 1.2.3 | 2016 - 2021
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Sep 26 2021 at 11:59:38
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.Regex
+
+[18:25:09]   Loaded.
+[18:25:09]  Loading plugin: sscanf.dll
+[18:25:09] 
+
+[18:25:09]  ===============================
+
+[18:25:09]       sscanf plugin loaded.     
+
+[18:25:09]          Version:  2.8.3        
+
+[18:25:09]   (c) 2018 Alex "Y_Less" Cole  
+
+[18:25:09]  ===============================
+
+[18:25:09]   Loaded.
+[18:25:09]  Loading plugin: streamer.dll
+[18:25:09] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[18:25:09]   Loaded.
+[18:25:09]  Loading plugin: TOTP.dll
+[18:25:09] TOTP plugin v1.0.1 by Games loaded.
+[18:25:09]   Loaded.
+[18:25:09]  Loading plugin: SKY.dll
+[18:25:09] 
+[18:25:09]  ===============================
+[18:25:09]    
+[18:25:09]    < SKY - 2.4.2 >
+[18:25:09]    
+[18:25:09]    (c) 2008 - Present | YSF Maintainers
+[18:25:09]    (c) 2015 | Oscar "Slice" Broman
+[18:25:09]    
+[18:25:09]    Server Version: 0.3.7 R2
+[18:25:09]    Operating System: Windows
+[18:25:09]    Built on: Oct  6 2025 at 10:06:48
+[18:25:09]    
+[18:25:09]  ===============================
+[18:25:09] 
+[18:25:09]   Loaded.
+[18:25:09]  Loading plugin: log-plugin.dll
+[18:25:09]  >> plugin.log: vv0.5 successfully loaded.
+[18:25:09]   Loaded.
+[18:25:09]  Loaded 10 plugins.
+
+[18:25:09] 
+[18:25:09] Filterscripts
+[18:25:09] ---------------
+[18:25:09]   Loaded 0 filterscripts.
+
+[18:25:09] [TP]: Все входы/выходы созданы
+[18:25:30] Не удалось подключиться к базе данных! (code: 2003)
+[18:25:30] _______________________________________________________ 
+[18:25:30] 	developer SlayderDev
+[18:25:30] 	SLAYDER © 2020-2026, inc. all rights reserved.	
+[18:25:30] _______________________________________________________ 
+[18:25:30] Number of vehicle models: 0
+[18:25:50] [connection] 127.0.0.1:57098 requests connection cookie.
+[18:25:51] [connection] incoming connection: 127.0.0.1:57098 id: 0
+[18:25:51] [join] kitsori has joined the server (0:127.0.0.1)
+[18:25:51] client 0
+[18:25:54] OnQueryError(2003, 'Can't connect to MySQL server on 'localhost' (0)', 'GetPlayerDataMySQL', 'SELECT `ID`, `Password`, `Last_IP`, `ID_Telegram`, `Last_Position`, `Last_LoginTime` FROM `players` WHERE `NickName` = 'kitsori' LIMIT 1;')
+[18:26:12] kitsori[0] ShowCefPublic(OnPlayerDeviceLost[146]) pID = -1
+[18:26:13] kitsori[0] ShowCefPublic(OnPlayerDeviceRestore[147]) pID = -1
+[18:26:13] kitsori[0] ShowCefPublic(OnPlayerDeviceRestore[147]) pID = -1
+[18:26:15] kitsori[0] ShowCefPublic(OnPlayerDeviceLost[146]) pID = -1
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:26:19] filterscripts = ""  (string)
+[18:26:19] 
+[18:26:19] Server Plugins
+[18:26:19] --------------
+[18:26:19]  Loading plugin: crashdetect.dll
+[18:26:19]   CrashDetect plugin 4.21
+[18:26:19]   Loaded.
+[18:26:19]  Loading plugin: mysql.dll
+[18:26:19]  >> plugin.mysql: R41-3 successfully loaded.
+[18:26:19]   Loaded.
+[18:26:19]  Loading plugin: pawncmd.dll
+[18:26:19] [Pawn.CMD] plugin v3.4.0 loading...
+[18:26:19] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[18:26:19]   Loaded.
+[18:26:19]  Loading plugin: pawnraknet.dll
+[18:26:19] [Pawn.RakNet] plugin v1.5.1 loading...
+[18:26:19] [Pawn.RakNet] 
+
+    | Pawn.RakNet 1.5.1 | 2016 - 2021
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Sep 26 2021 at 12:04:10
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.RakNet
+    |--------------------------------------------------------------
+    | Wiki: https://github.com/katursis/Pawn.RakNet/wiki
+
+[18:26:19]   Loaded.
+[18:26:19]  Loading plugin: pawnregex.dll
+[18:26:19] [Pawn.Regex] plugin v1.2.3 loading...
+[18:26:19] [Pawn.Regex] 
+
+    | Pawn.Regex 1.2.3 | 2016 - 2021
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Sep 26 2021 at 11:59:38
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.Regex
+
+[18:26:19]   Loaded.
+[18:26:19]  Loading plugin: sscanf.dll
+[18:26:19] 
+
+[18:26:19]  ===============================
+
+[18:26:19]       sscanf plugin loaded.     
+
+[18:26:19]          Version:  2.8.3        
+
+[18:26:19]   (c) 2018 Alex "Y_Less" Cole  
+
+[18:26:19]  ===============================
+
+[18:26:19]   Loaded.
+[18:26:19]  Loading plugin: streamer.dll
+[18:26:19] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[18:26:19]   Loaded.
+[18:26:19]  Loading plugin: TOTP.dll
+[18:26:19] TOTP plugin v1.0.1 by Games loaded.
+[18:26:19]   Loaded.
+[18:26:19]  Loading plugin: SKY.dll
+[18:26:19] 
+[18:26:19]  ===============================
+[18:26:19]    
+[18:26:19]    < SKY - 2.4.2 >
+[18:26:19]    
+[18:26:19]    (c) 2008 - Present | YSF Maintainers
+[18:26:19]    (c) 2015 | Oscar "Slice" Broman
+[18:26:19]    
+[18:26:19]    Server Version: 0.3.7 R2
+[18:26:19]    Operating System: Windows
+[18:26:19]    Built on: Oct  6 2025 at 10:06:48
+[18:26:19]    
+[18:26:19]  ===============================
+[18:26:19] 
+[18:26:19]   Loaded.
+[18:26:19]  Loading plugin: log-plugin.dll
+[18:26:19]  >> plugin.log: vv0.5 successfully loaded.
+[18:26:19]   Loaded.
+[18:26:19]  Loaded 10 plugins.
+
+[18:26:19] 
+[18:26:19] Filterscripts
+[18:26:19] ---------------
+[18:26:19]   Loaded 0 filterscripts.
+
+[18:26:19] [TP]: Все входы/выходы созданы
+[18:26:30] [connection] 127.0.0.1:61717 requests connection cookie.
+[18:26:39] Не удалось подключиться к базе данных! (code: 2003)
+[18:26:39] _______________________________________________________ 
+[18:26:39] 	developer SlayderDev
+[18:26:39] 	SLAYDER © 2020-2026, inc. all rights reserved.	
+[18:26:39] _______________________________________________________ 
+[18:26:39] Number of vehicle models: 0
+[18:26:39] [connection] incoming connection: 127.0.0.1:61717 id: 0
+[18:26:39] [join] kitsori has joined the server (0:127.0.0.1)
+[18:27:01] Kicking 127.0.0.1 because they didn't logon to the game.
+[18:27:39] [debug] Long callback execution detected (hang or performance issue)
+[18:27:39] [debug] AMX backtrace:
+[18:27:39] [debug] #0 00023558 in bool:IsPlayerLogged (playerid=0) at C:\Users\tkach\Desktop\гх\MODE-SLAYDERDEV-V8.X\gamemodes\new.pwn:3170
+[18:27:39] [debug] #1 001dbd6c in SendMessageToPaintball (id=0, text[]=@00a62f00 "") at C:\Users\tkach\Desktop\гх\MODE-SLAYDERDEV-V8.X\gamemodes\new.pwn:37133
+[18:27:39] [debug] #2 001dbad0 in player_Paintball_Disconnect (playerid=0) at C:\Users\tkach\Desktop\гх\MODE-SLAYDERDEV-V8.X\gamemodes\new.pwn:37119
+[18:27:39] [debug] #3 000c4458 in OnPlayerResetData (playerid=0) at C:\Users\tkach\Desktop\гх\MODE-SLAYDERDEV-V8.X\gamemodes\new.pwn:16384
+[18:27:39] [debug] #4 000342cc in public rak_OnPlayerConnect (playerid=0) at C:\Users\tkach\Desktop\гх\MODE-SLAYDERDEV-V8.X\gamemodes\new.pwn:5492
+[18:27:39] [debug] #5 0001299c in public Iter_OnPlayerConnect (playerid=0) at C:\Users\tkach\Desktop\гх\MODE-SLAYDERDEV-V8.X\pawno\include\nex-ac.inc:238
+[18:27:39] [debug] #6 0000855c in public SSCANF_OnPlayerConnect (playerid=0) at C:\Users\tkach\Desktop\гх\MODE-SLAYDERDEV-V8.X\pawno\include\foreach.inc:813
+[18:27:39] [debug] #7 000012c8 in public OnPlayerConnect (playerid=0) at C:\Users\tkach\Desktop\гх\MODE-SLAYDERDEV-V8.X\pawno\include\sscanf2.inc:242
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:29:41] filterscripts = ""  (string)
+[18:29:41] 
+[18:29:41] Server Plugins
+[18:29:41] --------------
+[18:29:41]  Loading plugin: crashdetect.dll
+[18:29:41]   CrashDetect plugin 4.21
+[18:29:41]   Loaded.
+[18:29:41]  Loading plugin: mysql.dll
+[18:29:41]  >> plugin.mysql: R41-3 successfully loaded.
+[18:29:41]   Loaded.
+[18:29:41]  Loading plugin: pawncmd.dll
+[18:29:41] [Pawn.CMD] plugin v3.4.0 loading...
+[18:29:41] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[18:29:41]   Loaded.
+[18:29:41]  Loading plugin: pawnraknet.dll
+[18:29:41] [Pawn.RakNet] plugin v1.5.1 loading...
+[18:29:41] [Pawn.RakNet] 
+
+    | Pawn.RakNet 1.5.1 | 2016 - 2021
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Sep 26 2021 at 12:04:10
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.RakNet
+    |--------------------------------------------------------------
+    | Wiki: https://github.com/katursis/Pawn.RakNet/wiki
+
+[18:29:41]   Loaded.
+[18:29:41]  Loading plugin: pawnregex.dll
+[18:29:41] [Pawn.Regex] plugin v1.2.3 loading...
+[18:29:41] [Pawn.Regex] 
+
+    | Pawn.Regex 1.2.3 | 2016 - 2021
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Sep 26 2021 at 11:59:38
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.Regex
+
+[18:29:41]   Loaded.
+[18:29:41]  Loading plugin: sscanf.dll
+[18:29:41] 
+
+[18:29:41]  ===============================
+
+[18:29:41]       sscanf plugin loaded.     
+
+[18:29:41]          Version:  2.8.3        
+
+[18:29:41]   (c) 2018 Alex "Y_Less" Cole  
+
+[18:29:41]  ===============================
+
+[18:29:41]   Loaded.
+[18:29:41]  Loading plugin: streamer.dll
+[18:29:41] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[18:29:41]   Loaded.
+[18:29:41]  Loading plugin: TOTP.dll
+[18:29:41] TOTP plugin v1.0.1 by Games loaded.
+[18:29:41]   Loaded.
+[18:29:41]  Loading plugin: SKY.dll
+[18:29:41] 
+[18:29:41]  ===============================
+[18:29:41]    
+[18:29:41]    < SKY - 2.4.2 >
+[18:29:41]    
+[18:29:41]    (c) 2008 - Present | YSF Maintainers
+[18:29:41]    (c) 2015 | Oscar "Slice" Broman
+[18:29:41]    
+[18:29:41]    Server Version: 0.3.7 R2
+[18:29:41]    Operating System: Windows
+[18:29:41]    Built on: Oct  6 2025 at 10:06:48
+[18:29:41]    
+[18:29:41]  ===============================
+[18:29:41] 
+[18:29:41]   Loaded.
+[18:29:41]  Loading plugin: log-plugin.dll
+[18:29:41]  >> plugin.log: vv0.5 successfully loaded.
+[18:29:41]   Loaded.
+[18:29:41]  Loaded 10 plugins.
+
+[18:29:41] 
+[18:29:41] Filterscripts
+[18:29:41] ---------------
+[18:29:41]   Loaded 0 filterscripts.
+
+[18:29:41] [TP]: Все входы/выходы созданы
+[18:29:41] mysql_query(type: '1', query: 'SELECT * FROM `Objects` WHERE 1')
+[18:29:41] [Objects]: Объектов загружено: 1
+[18:29:41] mysql_query(type: '1', query: 'SELECT WEEKDAY("2026-10-5")')
+[18:29:41] [Timing] OnGameModeInit: 27 ms
+[18:29:41] _______________________________________________________ 
+[18:29:41] 	developer SlayderDev
+[18:29:41] 	SLAYDER © 2020-2026, inc. all rights reserved.	
+[18:29:41] _______________________________________________________ 
+[18:29:41] Number of vehicle models: 0
+[18:29:41] [Houses]: Домов загружено -> 405
+[18:29:42] [Garages]: Гаражей загружено -> 337
+[18:29:42] [GreenZones]: зеленых зон загружено -> 48
+[18:29:42] [FRACTION]: Фракций загружено -> 0/10
+[18:29:42] [Familys]: UNKNOWN ( all stat -> 0)
+[18:29:42] [Entrance]: UNKNOWN ( all stat -> 0)
+[18:29:42] [Businesses]: Бизнесов загружено -> 114
+[18:30:40] [connection] 127.0.0.1:60545 requests connection cookie.
+[18:30:41] [connection] incoming connection: 127.0.0.1:60545 id: 0
+[18:30:41] [join] kitsori has joined the server (0:127.0.0.1)
+[18:30:41] client 0
+[18:30:47] kitsori[0] ShowCefPublic(OnPlayerClientSideKey[40]) pID = 5
+[18:30:48] kitsori[0] ShowCefPublic(OnAuthorizationStart[4]) pID = 5
+[18:30:49] kitsori[0] ShowCefPublic(OnPlayerClientSideKey[40]) pID = 5
+[18:30:50] kitsori[0] ShowCefPublic(OnAuthorizationStart[4]) pID = 5
+[18:30:50] player_AuthEnd(kitsori[0], kaneki1212)
+[18:30:50] player_AuthEnd(kitsori[0]) accept player_PreloadAccount
+[18:30:56] kitsori[0] ShowCefPublic(OnPlayerClientSideKey[40]) pID = 5
+[18:30:56] mysql_query(type: '1', query: 'SELECT COUNT(*) FROM `OwnableCars` WHERE `Owner` = 'kitsori' AND `Owner_Type` = '0' LIMIT 1;')
+[18:30:57] kitsori[0] ShowCefPublic(MainMenu_OnPlayerOpen[162]) pID = 5
+[18:30:59] kitsori[0] ShowCefPublic(MainMenu_OnPlayerChangeTab[44]) pID = 5
+[18:31:04] kitsori[0] ShowCefPublic(MainMenu_OnPlayerChangeTab[44]) pID = 5
+[18:31:04] mysql_query(type: '1', query: 'SELECT COUNT(*) FROM `OwnableCars` WHERE `Owner` = 'kitsori' AND `Owner_Type` = '0' LIMIT 1;')
+[18:31:05] kitsori[0] ShowCefPublic(MainMenu_OnPlayerCloseInterface[39]) pID = 5
+[18:31:18] kitsori[0] ShowCefPublic(OnDialogResponse[5]) pID = 5
+[18:31:18] kitsori[0] used dialog: 20306[lolikbolik1212]
+[18:31:20] kitsori[0] ShowCefPublic(OnPlayerClientSideKey[40]) pID = 5
+[18:31:23] kitsori[0] ShowCefPublic(OnPlayerClientSideKey[40]) pID = 5
+[18:31:24] kitsori[0] ShowCefPublic(OnDialogResponse[5]) pID = 5
+[18:31:24] kitsori[0] used dialog: 20362[<p style  color: # >3.Изменить скорость полета</p>]
+[18:31:27] kitsori[0] ShowCefPublic(OnDialogResponse[5]) pID = 5
+[18:31:27] kitsori[0] used dialog: 20361[999]
+[18:31:30] kitsori[0] ShowCefPublic(OnPlayerDeviceLost[146]) pID = 5
+[18:31:32] kitsori[0] ShowCefPublic(OnPlayerDeviceRestore[147]) pID = 5
+[18:31:50] UpdateDataStr -> [UPDATE `players` SET `InventoryAks_0` = '-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,' WHERE `ID` = '5' LIMIT 1;]
+[18:31:50] UpdateDataStr -> [UPDATE `players` SET `InventoryAks_1` = '0,0,0,0,0,0,0,0,0,0,' WHERE `ID` = '5' LIMIT 1;]
+[18:31:50] UpdateDataStr -> [UPDATE `players` SET `InventoryAks_2` = '0,0,0,0,0,0,0,0,0,0,' WHERE `ID` = '5' LIMIT 1;]
+[18:31:50] UpdateDataStr -> [UPDATE `players` SET `InventoryAks_3` = '0,0,0,0,0,0,0,0,0,0,' WHERE `ID` = '5' LIMIT 1;]
+[18:31:50] UpdateDataStr -> [UPDATE `players` SET `InventoryAks_String` = 'null,null,null,null,null,null,null,null,null,null,' WHERE `ID` = '5' LIMIT 1;]
+[18:31:50] UpdateDataStr -> [UPDATE `players` SET `Inventory_String` = ',,,,,,,,,,,,,,,,,,,' WHERE `ID` = '5' LIMIT 1;]
+[18:31:50] SaveInvPlayer[0] -> 0, [-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,]
+[18:31:50] UpdateDataStr -> [UPDATE `players` SET `Inventory_0` = '-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,' WHERE `ID` = '5' LIMIT 1;]
+[18:31:50] UpdateDataStr -> [UPDATE `players` SET `Inventory_1` = '0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,' WHERE `ID` = '5' LIMIT 1;]
+[18:31:50] UpdateDataStr -> [UPDATE `players` SET `Inventory_2` = '0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,' WHERE `ID` = '5' LIMIT 1;]
+[18:31:50] UpdateDataStr -> [UPDATE `players` SET `Inventory_3` = '0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,' WHERE `ID` = '5' LIMIT 1;]
+[18:31:50] UpdateDataStr -> [UPDATE `players` SET `InventoryBag_0` = '-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,' WHERE `ID` = '5' LIMIT 1;]
+[18:31:50] UpdateDataStr -> [UPDATE `players` SET `InventoryBag_1` = '0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,' WHERE `ID` = '5' LIMIT 1;]
+[18:31:50] UpdateDataStr -> [UPDATE `players` SET `InventoryBag_2` = '0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,' WHERE `ID` = '5' LIMIT 1;]
+[18:31:50] UpdateDataStr -> [UPDATE `players` SET `InventoryBag_3` = '0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,' WHERE `ID` = '5' LIMIT 1;]
+[18:31:50] UpdateDataStr -> [UPDATE `players` SET `InventoryBag_String` = ',,,,,,,,,,,,,,,,,,,,,,,,' WHERE `ID` = '5' LIMIT 1;]
+[18:31:50] [part] kitsori has left the server (0:0)
+[18:35:20] mysql stat => Uptime: 377  Threads: 5  Questions: 173  Slow queries: 0  Opens: 134  Flush tables: 1  Open tables: 127  Queries per second avg: 0.458
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:41:14] filterscripts = ""  (string)
+[18:41:14] 
+[18:41:14] Server Plugins
+[18:41:14] --------------
+[18:41:14]  Loading plugin: crashdetect.dll
+[18:41:14]   CrashDetect plugin 4.21
+[18:41:14]   Loaded.
+[18:41:14]  Loading plugin: mysql.dll
+[18:41:14]  >> plugin.mysql: R41-3 successfully loaded.
+[18:41:14]   Loaded.
+[18:41:14]  Loading plugin: pawncmd.dll
+[18:41:14] [Pawn.CMD] plugin v3.4.0 loading...
+[18:41:14] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[18:41:14]   Loaded.
+[18:41:14]  Loading plugin: pawnraknet.dll
+[18:41:14] [Pawn.RakNet] plugin v1.5.1 loading...
+[18:41:14] [Pawn.RakNet] 
+
+    | Pawn.RakNet 1.5.1 | 2016 - 2021
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Sep 26 2021 at 12:04:10
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.RakNet
+    |--------------------------------------------------------------
+    | Wiki: https://github.com/katursis/Pawn.RakNet/wiki
+
+[18:41:14]   Loaded.
+[18:41:14]  Loading plugin: pawnregex.dll
+[18:41:14] [Pawn.Regex] plugin v1.2.3 loading...
+[18:41:14] [Pawn.Regex] 
+
+    | Pawn.Regex 1.2.3 | 2016 - 2021
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Sep 26 2021 at 11:59:38
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.Regex
+
+[18:41:14]   Loaded.
+[18:41:14]  Loading plugin: sscanf.dll
+[18:41:14] 
+
+[18:41:14]  ===============================
+
+[18:41:14]       sscanf plugin loaded.     
+
+[18:41:14]          Version:  2.8.3        
+
+[18:41:14]   (c) 2018 Alex "Y_Less" Cole  
+
+[18:41:14]  ===============================
+
+[18:41:14]   Loaded.
+[18:41:14]  Loading plugin: streamer.dll
+[18:41:14] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[18:41:14]   Loaded.
+[18:41:14]  Loading plugin: TOTP.dll
+[18:41:14] TOTP plugin v1.0.1 by Games loaded.
+[18:41:14]   Loaded.
+[18:41:14]  Loading plugin: SKY.dll
+[18:41:14] 
+[18:41:14]  ===============================
+[18:41:14]    
+[18:41:14]    < SKY - 2.4.2 >
+[18:41:14]    
+[18:41:14]    (c) 2008 - Present | YSF Maintainers
+[18:41:14]    (c) 2015 | Oscar "Slice" Broman
+[18:41:14]    
+[18:41:14]    Server Version: 0.3.7 R2
+[18:41:14]    Operating System: Windows
+[18:41:14]    Built on: Oct  6 2025 at 10:06:48
+[18:41:14]    
+[18:41:14]  ===============================
+[18:41:14] 
+[18:41:14]   Loaded.
+[18:41:14]  Loading plugin: log-plugin.dll
+[18:41:14]  >> plugin.log: vv0.5 successfully loaded.
+[18:41:14]   Loaded.
+[18:41:14]  Loaded 10 plugins.
+
+[18:41:14] 
+[18:41:14] Filterscripts
+[18:41:14] ---------------
+[18:41:14]   Loaded 0 filterscripts.
+
+[18:41:14] [TP]: Все входы/выходы созданы
+[18:41:14] mysql_query(type: '1', query: 'SELECT * FROM `Objects` WHERE 1')
+[18:41:14] [Objects]: Объектов загружено: 1
+[18:41:14] mysql_query(type: '1', query: 'SELECT WEEKDAY("2026-10-5")')
+[18:41:14] [Timing] OnGameModeInit: 19 ms
+[18:41:14] _______________________________________________________ 
+[18:41:14] 	developer SlayderDev
+[18:41:14] 	SLAYDER © 2020-2026, inc. all rights reserved.	
+[18:41:14] _______________________________________________________ 
+[18:41:14] Number of vehicle models: 0
+[18:41:14] [Houses]: Домов загружено -> 405
+[18:41:14] [Garages]: Гаражей загружено -> 337
+[18:41:14] [GreenZones]: зеленых зон загружено -> 48
+[18:41:14] [FRACTION]: Фракций загружено -> 0/10
+[18:41:14] [Familys]: UNKNOWN ( all stat -> 0)
+[18:41:14] [Entrance]: UNKNOWN ( all stat -> 0)
+[18:41:14] [Businesses]: Бизнесов загружено -> 114
+[18:42:03] [connection] 127.0.0.1:59867 requests connection cookie.
+[18:42:04] [connection] incoming connection: 127.0.0.1:59867 id: 0
+[18:42:04] [join] kitsori has joined the server (0:127.0.0.1)
+[18:42:04] client 0
+[18:42:36] kitsori[0] ShowCefPublic(OnPlayerClientSideKey[40]) pID = 5
+[18:42:37] kitsori[0] ShowCefPublic(OnAuthorizationStart[4]) pID = 5
+[18:42:37] player_AuthEnd(kitsori[0], kaneki1212)
+[18:42:37] player_AuthEnd(kitsori[0]) accept player_PreloadAccount
+[18:42:43] kitsori[0] ShowCefPublic(OnPlayerClientSideKey[40]) pID = 5
+[18:42:43] kitsori[0] ShowCefPublic(OnPlayerClientSideKey[40]) pID = 5
+[18:42:43] mysql_query(type: '1', query: 'SELECT COUNT(*) FROM `OwnableCars` WHERE `Owner` = 'kitsori' AND `Owner_Type` = '0' LIMIT 1;')
+[18:42:44] kitsori[0] ShowCefPublic(MainMenu_OnPlayerOpen[162]) pID = 5
+[18:42:45] kitsori[0] ShowCefPublic(MainMenu_OnPlayerChangeTab[44]) pID = 5
+[18:42:51] kitsori[0] ShowCefPublic(PlayerImprove_OnPlayerBuy[66]) pID = 5
+[18:42:52] kitsori[0] ShowCefPublic(MainMenu_OnPlayerChangeTab[44]) pID = 5
+[18:42:52] mysql_query(type: '1', query: 'SELECT COUNT(*) FROM `OwnableCars` WHERE `Owner` = 'kitsori' AND `Owner_Type` = '0' LIMIT 1;')
+[18:42:53] kitsori[0] ShowCefPublic(MainMenu_OnPlayerCloseInterface[39]) pID = 5
+[18:42:57] kitsori[0] ShowCefPublic(OnPlayerDeviceLost[146]) pID = 5
+[19:00:00] PayDay()++;
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:30:21] filterscripts = ""  (string)
+[20:30:21] 
+[20:30:21] Server Plugins
+[20:30:21] --------------
+[20:30:21]  Loading plugin: crashdetect.dll
+[20:30:21]   CrashDetect plugin 4.21
+[20:30:21]   Loaded.
+[20:30:21]  Loading plugin: mysql.dll
+[20:30:21]  >> plugin.mysql: R41-3 successfully loaded.
+[20:30:21]   Loaded.
+[20:30:21]  Loading plugin: pawncmd.dll
+[20:30:21] [Pawn.CMD] plugin v3.4.0 loading...
+[20:30:21] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[20:30:21]   Loaded.
+[20:30:21]  Loading plugin: pawnraknet.dll
+[20:30:21] [Pawn.RakNet] plugin v1.5.1 loading...
+[20:30:21] [Pawn.RakNet] 
+
+    | Pawn.RakNet 1.5.1 | 2016 - 2021
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Sep 26 2021 at 12:04:10
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.RakNet
+    |--------------------------------------------------------------
+    | Wiki: https://github.com/katursis/Pawn.RakNet/wiki
+
+[20:30:21]   Loaded.
+[20:30:21]  Loading plugin: pawnregex.dll
+[20:30:21] [Pawn.Regex] plugin v1.2.3 loading...
+[20:30:21] [Pawn.Regex] 
+
+    | Pawn.Regex 1.2.3 | 2016 - 2021
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Sep 26 2021 at 11:59:38
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.Regex
+
+[20:30:21]   Loaded.
+[20:30:21]  Loading plugin: sscanf.dll
+[20:30:21] 
+
+[20:30:21]  ===============================
+
+[20:30:21]       sscanf plugin loaded.     
+
+[20:30:21]          Version:  2.8.3        
+
+[20:30:21]   (c) 2018 Alex "Y_Less" Cole  
+
+[20:30:21]  ===============================
+
+[20:30:21]   Loaded.
+[20:30:21]  Loading plugin: streamer.dll
+[20:30:21] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[20:30:21]   Loaded.
+[20:30:21]  Loading plugin: TOTP.dll
+[20:30:21] TOTP plugin v1.0.1 by Games loaded.
+[20:30:21]   Loaded.
+[20:30:21]  Loading plugin: SKY.dll
+[20:30:21] 
+[20:30:21]  ===============================
+[20:30:21]    
+[20:30:21]    < SKY - 2.4.2 >
+[20:30:21]    
+[20:30:21]    (c) 2008 - Present | YSF Maintainers
+[20:30:21]    (c) 2015 | Oscar "Slice" Broman
+[20:30:21]    
+[20:30:21]    Server Version: 0.3.7 R2
+[20:30:21]    Operating System: Windows
+[20:30:21]    Built on: Oct  6 2025 at 10:06:48
+[20:30:21]    
+[20:30:21]  ===============================
+[20:30:21] 
+[20:30:21]   Loaded.
+[20:30:21]  Loading plugin: log-plugin.dll
+[20:30:21]  >> plugin.log: vv0.5 successfully loaded.
+[20:30:21]   Loaded.
+[20:30:21]  Loaded 10 plugins.
+
+[20:30:21] 
+[20:30:21] Filterscripts
+[20:30:21] ---------------
+[20:30:21]   Loaded 0 filterscripts.
+
+[20:30:21] [TP]: Все входы/выходы созданы
+[20:30:21] mysql_query(type: '1', query: 'SELECT * FROM `Objects` WHERE 1')
+[20:30:21] [Objects]: Объектов загружено: 1
+[20:30:21] mysql_query(type: '1', query: 'SELECT WEEKDAY("2026-10-5")')
+[20:30:21] [Timing] OnGameModeInit: 16 ms
+[20:30:21] _______________________________________________________ 
+[20:30:21] 	developer SlayderDev
+[20:30:21] 	SLAYDER © 2020-2026, inc. all rights reserved.	
+[20:30:21] _______________________________________________________ 
+[20:30:21] Number of vehicle models: 0
+[20:30:21] [Houses]: Домов загружено -> 405
+[20:30:21] [Garages]: Гаражей загружено -> 337
+[20:30:21] [GreenZones]: зеленых зон загружено -> 48
+[20:30:21] [FRACTION]: Фракций загружено -> 0/10
+[20:30:21] [Familys]: UNKNOWN ( all stat -> 0)
+[20:30:21] [Entrance]: UNKNOWN ( all stat -> 0)
+[20:30:21] [Businesses]: Бизнесов загружено -> 114
+[20:30:58] [connection] 127.0.0.1:52748 requests connection cookie.
+[20:30:59] [connection] incoming connection: 127.0.0.1:52748 id: 0
+[20:30:59] [join] kitsori has joined the server (0:127.0.0.1)
+[20:30:59] client 0
+[20:31:05] kitsori[0] ShowCefPublic(OnPlayerClientSideKey[40]) pID = 5
+[20:31:06] kitsori[0] ShowCefPublic(OnAuthorizationStart[4]) pID = 5
+[20:31:06] player_AuthEnd(kitsori[0], kaneki1212)
+[20:31:06] player_AuthEnd(kitsori[0]) accept player_PreloadAccount
+[20:31:11] kitsori[0] ShowCefPublic(OnPlayerClientSideKey[40]) pID = 5
+[20:31:11] mysql_query(type: '1', query: 'SELECT COUNT(*) FROM `OwnableCars` WHERE `Owner` = 'kitsori' AND `Owner_Type` = '0' LIMIT 1;')
+[20:31:12] kitsori[0] ShowCefPublic(MainMenu_OnPlayerOpen[162]) pID = 5
+[20:31:13] kitsori[0] ShowCefPublic(MainMenu_OnPlayerChangeTab[44]) pID = 5
+[20:31:14] kitsori[0] ShowCefPublic(MainMenu_OnPlayerChangeTab[44]) pID = 5
+[20:31:15] kitsori[0] ShowCefPublic(MainMenu_OnPlayerChangeTab[44]) pID = 5
+[20:31:15] mysql_query(type: '1', query: 'SELECT COUNT(*) FROM `OwnableCars` WHERE `Owner` = 'kitsori' AND `Owner_Type` = '0' LIMIT 1;')
+[20:31:15] kitsori[0] ShowCefPublic(MainMenu_OnPlayerChangeTab[44]) pID = 5
+[20:31:15] [debug] Run time error 3: "Stack/heap collision (insufficient stack size)"
+[20:31:15] [debug]  Stack pointer (STK) is 0x39CFF28, heap pointer (HEA) is 0x39CFFA0
+[20:31:15] [debug] AMX backtrace:
+[20:31:15] [debug] #0 00220d60 in player_MainMenu_ChangeTab (playerid=0, eventid=2) at modules/mainmenu/main.inc:17
+[20:31:15] [debug] #1 000f10ec in ShowCefPublic (playerid=0, id=44, BitStream:bs=1768592) at C:\Users\tkach\Desktop\гх\MODE-SLAYDERDEV-V8.X\gamemodes\new.pwn:19680
+[20:31:15] [debug] #2 0010d5e0 in public OnIncomingPacket (playerid=0, packetid=215, BitStream:bs=1768592) at C:\Users\tkach\Desktop\гх\MODE-SLAYDERDEV-V8.X\gamemodes\new.pwn:21859
+[20:31:15] [Pawn.RakNet] EveryScriptImpl: AMX error occurred in public OnIncomingPacket: Stack/heap collision (insufficient stack size)
+[20:31:18] kitsori[0] ShowCefPublic(PlayerImprove_OnPlayerBuy[66]) pID = 5
+[20:31:20] kitsori[0] ShowCefPublic(MainMenu_OnPlayerChangeTab[44]) pID = 5
+[20:31:20] mysql_query(type: '1', query: 'SELECT COUNT(*) FROM `OwnableCars` WHERE `Owner` = 'kitsori' AND `Owner_Type` = '0' LIMIT 1;')
+[20:31:20] kitsori[0] ShowCefPublic(MainMenu_OnPlayerCloseInterface[39]) pID = 5
+[20:31:21] kitsori[0] ShowCefPublic(OnPlayerClientSideKey[40]) pID = 5
+[20:31:25] kitsori[0] ShowCefPublic(OnPlayerClientSideKey[40]) pID = 5
+[20:31:28] kitsori[0] ShowCefPublic(OnPlayerClientSideKey[40]) pID = 5
+[20:31:29] kitsori[0] ShowCefPublic(OnPlayerClientSideKey[40]) pID = 5
+[20:31:30] kitsori[0] ShowCefPublic(OnPlayerDeviceLost[146]) pID = 5
+[20:32:02] kitsori[0] ShowCefPublic(OnPlayerDeviceRestore[147]) pID = 5
+[20:32:03] kitsori[0] ShowCefPublic(OnPlayerDeviceRestore[147]) pID = 5
+[20:32:04] kitsori[0] ShowCefPublic(OnPlayerDeviceLost[146]) pID = 5
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:35:00] filterscripts = ""  (string)
+[20:35:00] 
+[20:35:00] Server Plugins
+[20:35:00] --------------
+[20:35:00]  Loading plugin: crashdetect.dll
+[20:35:00]   CrashDetect plugin 4.21
+[20:35:00]   Loaded.
+[20:35:00]  Loading plugin: mysql.dll
+[20:35:00]  >> plugin.mysql: R41-3 successfully loaded.
+[20:35:00]   Loaded.
+[20:35:00]  Loading plugin: pawncmd.dll
+[20:35:00] [Pawn.CMD] plugin v3.4.0 loading...
+[20:35:00] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[20:35:00]   Loaded.
+[20:35:00]  Loading plugin: pawnraknet.dll
+[20:35:00] [Pawn.RakNet] plugin v1.5.1 loading...
+[20:35:00] [Pawn.RakNet] 
+
+    | Pawn.RakNet 1.5.1 | 2016 - 2021
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Sep 26 2021 at 12:04:10
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.RakNet
+    |--------------------------------------------------------------
+    | Wiki: https://github.com/katursis/Pawn.RakNet/wiki
+
+[20:35:00]   Loaded.
+[20:35:00]  Loading plugin: pawnregex.dll
+[20:35:00] [Pawn.Regex] plugin v1.2.3 loading...
+[20:35:00] [Pawn.Regex] 
+
+    | Pawn.Regex 1.2.3 | 2016 - 2021
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Sep 26 2021 at 11:59:38
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.Regex
+
+[20:35:00]   Loaded.
+[20:35:00]  Loading plugin: sscanf.dll
+[20:35:00] 
+
+[20:35:00]  ===============================
+
+[20:35:00]       sscanf plugin loaded.     
+
+[20:35:00]          Version:  2.8.3        
+
+[20:35:00]   (c) 2018 Alex "Y_Less" Cole  
+
+[20:35:00]  ===============================
+
+[20:35:00]   Loaded.
+[20:35:00]  Loading plugin: streamer.dll
+[20:35:00] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[20:35:00]   Loaded.
+[20:35:00]  Loading plugin: TOTP.dll
+[20:35:00] TOTP plugin v1.0.1 by Games loaded.
+[20:35:00]   Loaded.
+[20:35:00]  Loading plugin: SKY.dll
+[20:35:00] 
+[20:35:00]  ===============================
+[20:35:00]    
+[20:35:00]    < SKY - 2.4.2 >
+[20:35:00]    
+[20:35:00]    (c) 2008 - Present | YSF Maintainers
+[20:35:00]    (c) 2015 | Oscar "Slice" Broman
+[20:35:00]    
+[20:35:00]    Server Version: 0.3.7 R2
+[20:35:00]    Operating System: Windows
+[20:35:00]    Built on: Oct  6 2025 at 10:06:48
+[20:35:00]    
+[20:35:00]  ===============================
+[20:35:00] 
+[20:35:00]   Loaded.
+[20:35:00]  Loading plugin: log-plugin.dll
+[20:35:00]  >> plugin.log: vv0.5 successfully loaded.
+[20:35:00]   Loaded.
+[20:35:00]  Loaded 10 plugins.
+
+[20:35:00] 
+[20:35:00] Filterscripts
+[20:35:00] ---------------
+[20:35:00]   Loaded 0 filterscripts.
+
+[20:35:00] [TP]: Все входы/выходы созданы
+[20:35:00] mysql_query(type: '1', query: 'SELECT * FROM `Objects` WHERE 1')
+[20:35:00] [Objects]: Объектов загружено: 1
+[20:35:00] mysql_query(type: '1', query: 'SELECT WEEKDAY("2026-10-5")')
+[20:35:00] [Timing] OnGameModeInit: 19 ms
+[20:35:00] _______________________________________________________ 
+[20:35:00] 	developer SlayderDev
+[20:35:00] 	SLAYDER © 2020-2026, inc. all rights reserved.	
+[20:35:00] _______________________________________________________ 
+[20:35:00] Number of vehicle models: 0
+[20:35:00] [Houses]: Домов загружено -> 405
+[20:35:00] [Garages]: Гаражей загружено -> 337
+[20:35:00] [GreenZones]: зеленых зон загружено -> 48
+[20:35:00] [FRACTION]: Фракций загружено -> 0/10
+[20:35:00] [Familys]: UNKNOWN ( all stat -> 0)
+[20:35:00] [Entrance]: UNKNOWN ( all stat -> 0)
+[20:35:00] [Businesses]: Бизнесов загружено -> 114
+[20:35:13] [connection] 127.0.0.1:65490 requests connection cookie.
+[20:35:14] [connection] incoming connection: 127.0.0.1:65490 id: 0
+[20:35:20] mysql stat => Uptime: 7577  Threads: 5  Questions: 535  Slow queries: 0  Opens: 212  Flush tables: 1  Open tables: 205  Queries per second avg: 0.070
+[20:36:03] [connection] 127.0.0.1:63613 requests connection cookie.
+[20:36:04] [connection] incoming connection: 127.0.0.1:63613 id: 0
+[20:36:04] [join] kitsori has joined the server (0:127.0.0.1)
+[20:36:04] client 0
+[20:36:11] kitsori[0] ShowCefPublic(OnPlayerClientSideKey[40]) pID = 5
+[20:36:11] kitsori[0] ShowCefPublic(OnAuthorizationStart[4]) pID = 5
+[20:36:11] player_AuthEnd(kitsori[0], kaneki1212)
+[20:36:11] player_AuthEnd(kitsori[0]) accept player_PreloadAccount
+[20:36:16] kitsori[0] ShowCefPublic(OnDialogResponse[5]) pID = 5
+[20:36:16] kitsori[0] used dialog: 20375[ ]
+[20:36:17] kitsori[0] ShowCefPublic(OnPlayerClientSideKey[40]) pID = 5
+[20:36:17] mysql_query(type: '1', query: 'SELECT COUNT(*) FROM `OwnableCars` WHERE `Owner` = 'kitsori' AND `Owner_Type` = '0' LIMIT 1;')
+[20:36:18] kitsori[0] ShowCefPublic(MainMenu_OnPlayerOpen[162]) pID = 5
+[20:36:19] kitsori[0] ShowCefPublic(MainMenu_OnPlayerCloseInterface[39]) pID = 5
+[20:36:21] kitsori[0] ShowCefPublic(OnPlayerClientSideKey[40]) pID = 5
+[20:36:21] mysql_query(type: '1', query: 'SELECT COUNT(*) FROM `OwnableCars` WHERE `Owner` = 'kitsori' AND `Owner_Type` = '0' LIMIT 1;')
+[20:36:21] kitsori[0] ShowCefPublic(MainMenu_OnPlayerOpen[162]) pID = 5
+[20:36:23] kitsori[0] ShowCefPublic(MainMenu_OnPlayerChangeTab[44]) pID = 5
+[20:36:23] [debug] Run time error 3: "Stack/heap collision (insufficient stack size)"
+[20:36:23] [debug]  Stack pointer (STK) is 0x39CFF28, heap pointer (HEA) is 0x39CFFA0
+[20:36:23] [debug] AMX backtrace:
+[20:36:23] [debug] #0 00220d60 in player_MainMenu_ChangeTab (playerid=0, eventid=2) at modules/mainmenu/main.inc:17
+[20:36:23] [debug] #1 000f10ec in ShowCefPublic (playerid=0, id=44, BitStream:bs=1768592) at C:\Users\tkach\Desktop\гх\MODE-SLAYDERDEV-V8.X\gamemodes\new.pwn:19680
+[20:36:23] [debug] #2 0010d5e0 in public OnIncomingPacket (playerid=0, packetid=215, BitStream:bs=1768592) at C:\Users\tkach\Desktop\гх\MODE-SLAYDERDEV-V8.X\gamemodes\new.pwn:21859
+[20:36:23] [Pawn.RakNet] EveryScriptImpl: AMX error occurred in public OnIncomingPacket: Stack/heap collision (insufficient stack size)
+[20:36:26] kitsori[0] ShowCefPublic(PlayerImprove_OnPlayerBuy[66]) pID = 5
+[20:36:26] mysql_query(type: '1', query: 'SELECT IF(11111111 < 50000, '1', '0') as comparison_result')
+[20:36:26] [debug] Run time error 3: "Stack/heap collision (insufficient stack size)"
+[20:36:26] [debug]  Stack pointer (STK) is 0x39CFF20, heap pointer (HEA) is 0x39CFFA0
+[20:36:26] [debug] AMX backtrace:
+[20:36:26] [debug] #0 002225f8 in player_Main_ImproveBuy (playerid=0, eventid=0) at modules/mainmenu/improvemenu.inc:104
+[20:36:26] [debug] #1 000f1bb0 in ShowCefPublic (playerid=0, id=66, BitStream:bs=1768592) at C:\Users\tkach\Desktop\гх\MODE-SLAYDERDEV-V8.X\gamemodes\new.pwn:19804
+[20:36:26] [debug] #2 0010d5e0 in public OnIncomingPacket (playerid=0, packetid=215, BitStream:bs=1768592) at C:\Users\tkach\Desktop\гх\MODE-SLAYDERDEV-V8.X\gamemodes\new.pwn:21859
+[20:36:26] [Pawn.RakNet] EveryScriptImpl: AMX error occurred in public OnIncomingPacket: Stack/heap collision (insufficient stack size)
+[20:36:29] kitsori[0] ShowCefPublic(PlayerImprove_OnPlayerBuy[66]) pID = 5
+[20:36:31] kitsori[0] ShowCefPublic(MainMenu_OnPlayerChangeTab[44]) pID = 5
+[20:36:31] mysql_query(type: '1', query: 'SELECT COUNT(*) FROM `OwnableCars` WHERE `Owner` = 'kitsori' AND `Owner_Type` = '0' LIMIT 1;')
+[20:36:32] kitsori[0] ShowCefPublic(MainMenu_OnPlayerCloseInterface[39]) pID = 5
+[20:36:36] kitsori[0] ShowCefPublic(OnPlayerClientSideKey[40]) pID = 5
+[20:36:36] mysql_query(type: '1', query: 'SELECT COUNT(*) FROM `OwnableCars` WHERE `Owner` = 'kitsori' AND `Owner_Type` = '0' LIMIT 1;')
+[20:36:36] kitsori[0] ShowCefPublic(MainMenu_OnPlayerOpen[162]) pID = 5
+[20:36:37] kitsori[0] ShowCefPublic(MainMenu_OnPlayerChangeTab[44]) pID = 5
+[20:36:37] [debug] Run time error 3: "Stack/heap collision (insufficient stack size)"
+[20:36:37] [debug]  Stack pointer (STK) is 0x39CFF28, heap pointer (HEA) is 0x39CFFA0
+[20:36:37] [debug] AMX backtrace:
+[20:36:37] [debug] #0 00220d60 in player_MainMenu_ChangeTab (playerid=0, eventid=2) at modules/mainmenu/main.inc:17
+[20:36:37] [debug] #1 000f10ec in ShowCefPublic (playerid=0, id=44, BitStream:bs=1768592) at C:\Users\tkach\Desktop\гх\MODE-SLAYDERDEV-V8.X\gamemodes\new.pwn:19680
+[20:36:37] [debug] #2 0010d5e0 in public OnIncomingPacket (playerid=0, packetid=215, BitStream:bs=1768592) at C:\Users\tkach\Desktop\гх\MODE-SLAYDERDEV-V8.X\gamemodes\new.pwn:21859
+[20:36:37] [Pawn.RakNet] EveryScriptImpl: AMX error occurred in public OnIncomingPacket: Stack/heap collision (insufficient stack size)
+[20:36:40] kitsori[0] ShowCefPublic(PlayerImprove_OnPlayerBuy[66]) pID = 5
+[20:36:40] kitsori[0] ShowCefPublic(OnPlayerDeviceLost[146]) pID = 5
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:41:27] filterscripts = ""  (string)
+[20:41:27] 
+[20:41:27] Server Plugins
+[20:41:27] --------------
+[20:41:27]  Loading plugin: crashdetect.dll
+[20:41:27]   CrashDetect plugin 4.21
+[20:41:27]   Loaded.
+[20:41:27]  Loading plugin: mysql.dll
+[20:41:27]  >> plugin.mysql: R41-3 successfully loaded.
+[20:41:27]   Loaded.
+[20:41:27]  Loading plugin: pawncmd.dll
+[20:41:27] [Pawn.CMD] plugin v3.4.0 loading...
+[20:41:27] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[20:41:27]   Loaded.
+[20:41:27]  Loading plugin: pawnraknet.dll
+[20:41:27] [Pawn.RakNet] plugin v1.5.1 loading...
+[20:41:27] [Pawn.RakNet] 
+
+    | Pawn.RakNet 1.5.1 | 2016 - 2021
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Sep 26 2021 at 12:04:10
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.RakNet
+    |--------------------------------------------------------------
+    | Wiki: https://github.com/katursis/Pawn.RakNet/wiki
+
+[20:41:27]   Loaded.
+[20:41:27]  Loading plugin: pawnregex.dll
+[20:41:27] [Pawn.Regex] plugin v1.2.3 loading...
+[20:41:27] [Pawn.Regex] 
+
+    | Pawn.Regex 1.2.3 | 2016 - 2021
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Sep 26 2021 at 11:59:38
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.Regex
+
+[20:41:27]   Loaded.
+[20:41:27]  Loading plugin: sscanf.dll
+[20:41:27] 
+
+[20:41:27]  ===============================
+
+[20:41:27]       sscanf plugin loaded.     
+
+[20:41:27]          Version:  2.8.3        
+
+[20:41:27]   (c) 2018 Alex "Y_Less" Cole  
+
+[20:41:27]  ===============================
+
+[20:41:27]   Loaded.
+[20:41:27]  Loading plugin: streamer.dll
+[20:41:27] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[20:41:27]   Loaded.
+[20:41:27]  Loading plugin: TOTP.dll
+[20:41:27] TOTP plugin v1.0.1 by Games loaded.
+[20:41:27]   Loaded.
+[20:41:27]  Loading plugin: SKY.dll
+[20:41:27] 
+[20:41:27]  ===============================
+[20:41:27]    
+[20:41:27]    < SKY - 2.4.2 >
+[20:41:27]    
+[20:41:27]    (c) 2008 - Present | YSF Maintainers
+[20:41:27]    (c) 2015 | Oscar "Slice" Broman
+[20:41:27]    
+[20:41:27]    Server Version: 0.3.7 R2
+[20:41:27]    Operating System: Windows
+[20:41:27]    Built on: Oct  6 2025 at 10:06:48
+[20:41:27]    
+[20:41:27]  ===============================
+[20:41:27] 
+[20:41:27]   Loaded.
+[20:41:27]  Loading plugin: log-plugin.dll
+[20:41:27]  >> plugin.log: vv0.5 successfully loaded.
+[20:41:27]   Loaded.
+[20:41:27]  Loaded 10 plugins.
+
+[20:41:27] 
+[20:41:27] Filterscripts
+[20:41:27] ---------------
+[20:41:27]   Loaded 0 filterscripts.
+
+[20:41:27] [TP]: Все входы/выходы созданы
+[20:41:27] mysql_query(type: '1', query: 'SELECT * FROM `Objects` WHERE 1')
+[20:41:27] [Objects]: Объектов загружено: 1
+[20:41:27] mysql_query(type: '1', query: 'SELECT WEEKDAY("2026-10-5")')
+[20:41:27] [Timing] OnGameModeInit: 11 ms
+[20:41:27] _______________________________________________________ 
+[20:41:27] 	developer SlayderDev
+[20:41:27] 	SLAYDER © 2020-2026, inc. all rights reserved.	
+[20:41:27] _______________________________________________________ 
+[20:41:27] Number of vehicle models: 0
+[20:41:27] [Houses]: Домов загружено -> 405
+[20:41:28] [Garages]: Гаражей загружено -> 337
+[20:41:28] [GreenZones]: зеленых зон загружено -> 48
+[20:41:28] [FRACTION]: Фракций загружено -> 0/10
+[20:41:28] [Familys]: UNKNOWN ( all stat -> 0)
+[20:41:28] [Entrance]: UNKNOWN ( all stat -> 0)
+[20:41:28] [Businesses]: Бизнесов загружено -> 114
+[20:41:36] [connection] 127.0.0.1:59635 requests connection cookie.
+[20:41:37] [connection] incoming connection: 127.0.0.1:59635 id: 0
+[20:42:16] [connection] 127.0.0.1:56906 requests connection cookie.
+[20:42:17] [connection] incoming connection: 127.0.0.1:56906 id: 0
+[20:42:17] [join] kitsori has joined the server (0:127.0.0.1)
+[20:42:18] client 0
+[20:42:18] kitsori[0] ShowCefPublic(EndedInitializeBrowser[15]) pID = -1
+[20:42:23] kitsori[0] ShowCefPublic(OnPlayerClientSideKey[40]) pID = 5
+[20:42:24] kitsori[0] ShowCefPublic(OnAuthorizationStart[4]) pID = 5
+[20:42:27] kitsori[0] ShowCefPublic(OnPlayerClientSideKey[40]) pID = 5
+[20:42:27] kitsori[0] ShowCefPublic(OnAuthorizationStart[4]) pID = 5
+[20:42:27] player_AuthEnd(kitsori[0], kaneki1212)
+[20:42:28] player_AuthEnd(kitsori[0]) accept player_PreloadAccount
+[20:42:32] kitsori[0] ShowCefPublic(OnDialogResponse[5]) pID = 5
+[20:42:32] kitsori[0] used dialog: 20375[ ]
+[20:42:33] kitsori[0] ShowCefPublic(OnPlayerClientSideKey[40]) pID = 5
+[20:42:33] mysql_query(type: '1', query: 'SELECT COUNT(*) FROM `OwnableCars` WHERE `Owner` = 'kitsori' AND `Owner_Type` = '0' LIMIT 1;')
+[20:42:35] kitsori[0] ShowCefPublic(MainMenu_OnPlayerOpen[162]) pID = 5
+[20:42:35] kitsori[0] ShowCefPublic(OnPlayerClientSideKey[40]) pID = 5
+[20:42:38] kitsori[0] ShowCefPublic(MainMenu_OnPlayerChangeTab[44]) pID = 5
+[20:42:38] [debug] Run time error 3: "Stack/heap collision (insufficient stack size)"
+[20:42:38] [debug]  Stack pointer (STK) is 0x39CFF28, heap pointer (HEA) is 0x39CFFA0
+[20:42:38] [debug] AMX backtrace:
+[20:42:38] [debug] #0 00220d60 in player_MainMenu_ChangeTab (playerid=0, eventid=2) at modules/mainmenu/main.inc:17
+[20:42:38] [debug] #1 000f10ec in ShowCefPublic (playerid=0, id=44, BitStream:bs=1768592) at C:\Users\tkach\Desktop\гх\MODE-SLAYDERDEV-V8.X\gamemodes\new.pwn:19680
+[20:42:38] [debug] #2 0010d5e0 in public OnIncomingPacket (playerid=0, packetid=215, BitStream:bs=1768592) at C:\Users\tkach\Desktop\гх\MODE-SLAYDERDEV-V8.X\gamemodes\new.pwn:21859
+[20:42:38] [Pawn.RakNet] EveryScriptImpl: AMX error occurred in public OnIncomingPacket: Stack/heap collision (insufficient stack size)
+[20:42:43] kitsori[0] ShowCefPublic(PlayerImprove_OnPlayerBuy[66]) pID = 5
+[20:42:44] kitsori[0] ShowCefPublic(MainMenu_OnPlayerChangeTab[44]) pID = 5
+[20:42:44] mysql_query(type: '1', query: 'SELECT COUNT(*) FROM `OwnableCars` WHERE `Owner` = 'kitsori' AND `Owner_Type` = '0' LIMIT 1;')
+[20:42:45] kitsori[0] ShowCefPublic(MainMenu_OnPlayerCloseInterface[39]) pID = 5
+[20:42:45] kitsori[0] ShowCefPublic(OnPlayerDeviceLost[146]) pID = 5
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:53:19] filterscripts = ""  (string)
+[20:53:19] 
+[20:53:19] Server Plugins
+[20:53:19] --------------
+[20:53:19]  Loading plugin: crashdetect.dll
+[20:53:19]   CrashDetect plugin 4.21
+[20:53:19]   Loaded.
+[20:53:19]  Loading plugin: mysql.dll
+[20:53:19]  >> plugin.mysql: R41-3 successfully loaded.
+[20:53:19]   Loaded.
+[20:53:19]  Loading plugin: pawncmd.dll
+[20:53:19] [Pawn.CMD] plugin v3.4.0 loading...
+[20:53:19] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[20:53:19]   Loaded.
+[20:53:19]  Loading plugin: pawnraknet.dll
+[20:53:19] [Pawn.RakNet] plugin v1.5.1 loading...
+[20:53:19] [Pawn.RakNet] 
+
+    | Pawn.RakNet 1.5.1 | 2016 - 2021
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Sep 26 2021 at 12:04:10
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.RakNet
+    |--------------------------------------------------------------
+    | Wiki: https://github.com/katursis/Pawn.RakNet/wiki
+
+[20:53:19]   Loaded.
+[20:53:19]  Loading plugin: pawnregex.dll
+[20:53:19] [Pawn.Regex] plugin v1.2.3 loading...
+[20:53:19] [Pawn.Regex] 
+
+    | Pawn.Regex 1.2.3 | 2016 - 2021
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Sep 26 2021 at 11:59:38
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.Regex
+
+[20:53:19]   Loaded.
+[20:53:19]  Loading plugin: sscanf.dll
+[20:53:19] 
+
+[20:53:19]  ===============================
+
+[20:53:19]       sscanf plugin loaded.     
+
+[20:53:19]          Version:  2.8.3        
+
+[20:53:19]   (c) 2018 Alex "Y_Less" Cole  
+
+[20:53:19]  ===============================
+
+[20:53:19]   Loaded.
+[20:53:19]  Loading plugin: streamer.dll
+[20:53:19] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[20:53:19]   Loaded.
+[20:53:19]  Loading plugin: TOTP.dll
+[20:53:19] TOTP plugin v1.0.1 by Games loaded.
+[20:53:19]   Loaded.
+[20:53:19]  Loading plugin: SKY.dll
+[20:53:19] 
+[20:53:19]  ===============================
+[20:53:19]    
+[20:53:19]    < SKY - 2.4.2 >
+[20:53:19]    
+[20:53:19]    (c) 2008 - Present | YSF Maintainers
+[20:53:19]    (c) 2015 | Oscar "Slice" Broman
+[20:53:19]    
+[20:53:19]    Server Version: 0.3.7 R2
+[20:53:19]    Operating System: Windows
+[20:53:19]    Built on: Oct  6 2025 at 10:06:48
+[20:53:19]    
+[20:53:19]  ===============================
+[20:53:19] 
+[20:53:19]   Loaded.
+[20:53:19]  Loading plugin: log-plugin.dll
+[20:53:19]  >> plugin.log: vv0.5 successfully loaded.
+[20:53:19]   Loaded.
+[20:53:19]  Loaded 10 plugins.
+
+[20:53:19] 
+[20:53:19] Filterscripts
+[20:53:19] ---------------
+[20:53:19]   Loaded 0 filterscripts.
+
+[20:53:19] [TP]: Все входы/выходы созданы
+[20:53:19] mysql_query(type: '1', query: 'SELECT * FROM `Objects` WHERE 1')
+[20:53:19] [Objects]: Объектов загружено: 1
+[20:53:19] mysql_query(type: '1', query: 'SELECT WEEKDAY("2026-10-5")')
+[20:53:19] [Timing] OnGameModeInit: 13 ms
+[20:53:19] _______________________________________________________ 
+[20:53:19] 	developer SlayderDev
+[20:53:19] 	SLAYDER © 2020-2026, inc. all rights reserved.	
+[20:53:19] _______________________________________________________ 
+[20:53:19] Number of vehicle models: 0
+[20:53:19] [Houses]: Домов загружено -> 405
+[20:53:20] [Garages]: Гаражей загружено -> 337
+[20:53:20] [GreenZones]: зеленых зон загружено -> 48
+[20:53:20] [FRACTION]: Фракций загружено -> 0/10
+[20:53:20] [Familys]: UNKNOWN ( all stat -> 0)
+[20:53:20] [Entrance]: UNKNOWN ( all stat -> 0)
+[20:53:20] [Businesses]: Бизнесов загружено -> 114
+[20:53:31] [connection] 127.0.0.1:58587 requests connection cookie.
+[20:53:32] [connection] incoming connection: 127.0.0.1:58587 id: 0
+[20:54:07] [connection] 127.0.0.1:65006 requests connection cookie.
+[20:54:08] [connection] incoming connection: 127.0.0.1:65006 id: 0
+[20:54:08] [join] kitsori has joined the server (0:127.0.0.1)
+[20:54:08] client 0
+[20:54:08] kitsori[0] ShowCefPublic(EndedInitializeBrowser[15]) pID = -1
+[20:54:17] kitsori[0] ShowCefPublic(OnPlayerClientSideKey[40]) pID = 5
+[20:54:18] kitsori[0] ShowCefPublic(OnAuthorizationStart[4]) pID = 5
+[20:54:18] player_AuthEnd(kitsori[0], kaneki1212)
+[20:54:18] player_AuthEnd(kitsori[0]) accept player_PreloadAccount
+[20:54:23] kitsori[0] ShowCefPublic(OnPlayerClientSideKey[40]) pID = 5
+[20:54:23] mysql_query(type: '1', query: 'SELECT COUNT(*) FROM `OwnableCars` WHERE `Owner` = 'kitsori' AND `Owner_Type` = '0' LIMIT 1;')
+[20:54:24] kitsori[0] ShowCefPublic(MainMenu_OnPlayerOpen[162]) pID = 5
+[20:54:24] kitsori[0] ShowCefPublic(OnPlayerClientSideKey[40]) pID = 5
+[20:54:25] kitsori[0] ShowCefPublic(MainMenu_OnPlayerChangeTab[44]) pID = 5
+[20:54:25] [debug] Run time error 3: "Stack/heap collision (insufficient stack size)"
+[20:54:25] [debug]  Stack pointer (STK) is 0x39CBF38, heap pointer (HEA) is 0x39CFFA0
+[20:54:25] [debug] AMX backtrace:
+[20:54:25] [debug] #0 00220d60 in player_MainMenu_ChangeTab (playerid=0, eventid=2) at modules/mainmenu/main.inc:17
+[20:54:25] [debug] #1 000f10ec in ShowCefPublic (playerid=0, id=44, BitStream:bs=1768592) at C:\Users\tkach\Desktop\гх\MODE-SLAYDERDEV-V8.X\gamemodes\new.pwn:19680
+[20:54:25] [debug] #2 0010d5e0 in public OnIncomingPacket (playerid=0, packetid=215, BitStream:bs=1768592) at C:\Users\tkach\Desktop\гх\MODE-SLAYDERDEV-V8.X\gamemodes\new.pwn:21859
+[20:54:25] [Pawn.RakNet] EveryScriptImpl: AMX error occurred in public OnIncomingPacket: Stack/heap collision (insufficient stack size)
+[20:54:28] kitsori[0] ShowCefPublic(PlayerImprove_OnPlayerBuy[66]) pID = 5
+[20:54:48] kitsori[0] ShowCefPublic(OnPlayerDeviceLost[146]) pID = 5
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:55:30] filterscripts = ""  (string)
+[20:55:30] 
+[20:55:30] Server Plugins
+[20:55:30] --------------
+[20:55:30]  Loading plugin: crashdetect.dll
+[20:55:30]   CrashDetect plugin 4.21
+[20:55:30]   Loaded.
+[20:55:30]  Loading plugin: mysql.dll
+[20:55:30]  >> plugin.mysql: R41-3 successfully loaded.
+[20:55:30]   Loaded.
+[20:55:30]  Loading plugin: pawncmd.dll
+[20:55:30] [Pawn.CMD] plugin v3.4.0 loading...
+[20:55:30] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[20:55:30]   Loaded.
+[20:55:30]  Loading plugin: pawnraknet.dll
+[20:55:30] [Pawn.RakNet] plugin v1.5.1 loading...
+[20:55:30] [Pawn.RakNet] 
+
+    | Pawn.RakNet 1.5.1 | 2016 - 2021
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Sep 26 2021 at 12:04:10
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.RakNet
+    |--------------------------------------------------------------
+    | Wiki: https://github.com/katursis/Pawn.RakNet/wiki
+
+[20:55:30]   Loaded.
+[20:55:30]  Loading plugin: pawnregex.dll
+[20:55:30] [Pawn.Regex] plugin v1.2.3 loading...
+[20:55:30] [Pawn.Regex] 
+
+    | Pawn.Regex 1.2.3 | 2016 - 2021
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Sep 26 2021 at 11:59:38
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.Regex
+
+[20:55:30]   Loaded.
+[20:55:30]  Loading plugin: sscanf.dll
+[20:55:30] 
+
+[20:55:30]  ===============================
+
+[20:55:30]       sscanf plugin loaded.     
+
+[20:55:30]          Version:  2.8.3        
+
+[20:55:30]   (c) 2018 Alex "Y_Less" Cole  
+
+[20:55:30]  ===============================
+
+[20:55:30]   Loaded.
+[20:55:30]  Loading plugin: streamer.dll
+[20:55:30] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[20:55:30]   Loaded.
+[20:55:30]  Loading plugin: TOTP.dll
+[20:55:30] TOTP plugin v1.0.1 by Games loaded.
+[20:55:30]   Loaded.
+[20:55:30]  Loading plugin: SKY.dll
+[20:55:30] 
+[20:55:30]  ===============================
+[20:55:30]    
+[20:55:30]    < SKY - 2.4.2 >
+[20:55:30]    
+[20:55:30]    (c) 2008 - Present | YSF Maintainers
+[20:55:30]    (c) 2015 | Oscar "Slice" Broman
+[20:55:30]    
+[20:55:30]    Server Version: 0.3.7 R2
+[20:55:30]    Operating System: Windows
+[20:55:30]    Built on: Oct  6 2025 at 10:06:48
+[20:55:30]    
+[20:55:30]  ===============================
+[20:55:30] 
+[20:55:30]   Loaded.
+[20:55:30]  Loading plugin: log-plugin.dll
+[20:55:30]  >> plugin.log: vv0.5 successfully loaded.
+[20:55:30]   Loaded.
+[20:55:30]  Loaded 10 plugins.
+
+[20:55:30] 
+[20:55:30] Filterscripts
+[20:55:30] ---------------
+[20:55:30]   Loaded 0 filterscripts.
+
+[20:55:30] [TP]: Все входы/выходы созданы
+[20:55:30] mysql_query(type: '1', query: 'SELECT * FROM `Objects` WHERE 1')
+[20:55:30] [Objects]: Объектов загружено: 1
+[20:55:30] mysql_query(type: '1', query: 'SELECT WEEKDAY("2026-10-5")')
+[20:55:30] [Timing] OnGameModeInit: 12 ms
+[20:55:30] _______________________________________________________ 
+[20:55:30] 	developer SlayderDev
+[20:55:30] 	SLAYDER © 2020-2026, inc. all rights reserved.	
+[20:55:30] _______________________________________________________ 
+[20:55:30] Number of vehicle models: 0
+[20:55:30] [Houses]: Домов загружено -> 405
+[20:55:30] [Garages]: Гаражей загружено -> 337
+[20:55:30] [GreenZones]: зеленых зон загружено -> 48
+[20:55:30] [FRACTION]: Фракций загружено -> 0/10
+[20:55:30] [Familys]: UNKNOWN ( all stat -> 0)
+[20:55:30] [Entrance]: UNKNOWN ( all stat -> 0)
+[20:55:30] [Businesses]: Бизнесов загружено -> 114
+[20:55:39] [connection] 127.0.0.1:55623 requests connection cookie.
+[20:55:40] [connection] incoming connection: 127.0.0.1:55623 id: 0
+[21:00:00] PayDay()++;
+[21:01:26] [connection] 127.0.0.1:60543 requests connection cookie.
+[21:01:27] [connection] incoming connection: 127.0.0.1:60543 id: 0
+[21:01:27] [join] kitsori has joined the server (0:127.0.0.1)
+[21:01:28] client 0
+[21:01:37] kitsori[0] ShowCefPublic(OnPlayerClientSideKey[40]) pID = 5
+[21:01:39] kitsori[0] ShowCefPublic(OnAuthorizationStart[4]) pID = 5
+[21:01:39] player_AuthEnd(kitsori[0], kaneki1212)
+[21:01:39] player_AuthEnd(kitsori[0]) accept player_PreloadAccount
+[21:01:44] kitsori[0] ShowCefPublic(OnDialogResponse[5]) pID = 5
+[21:01:44] kitsori[0] used dialog: 20375[ ]
+[21:01:46] kitsori[0] ShowCefPublic(OnPlayerClientSideKey[40]) pID = 5
+[21:01:46] mysql_query(type: '1', query: 'SELECT COUNT(*) FROM `OwnableCars` WHERE `Owner` = 'kitsori' AND `Owner_Type` = '0' LIMIT 1;')
+[21:01:47] kitsori[0] ShowCefPublic(MainMenu_OnPlayerOpen[162]) pID = 5
+[21:01:47] kitsori[0] ShowCefPublic(OnPlayerClientSideKey[40]) pID = 5
+[21:01:48] kitsori[0] ShowCefPublic(MainMenu_OnPlayerChangeTab[44]) pID = 5
+[21:01:48] [debug] Run time error 3: "Stack/heap collision (insufficient stack size)"
+[21:01:48] [debug]  Stack pointer (STK) is 0x39CFEF8, heap pointer (HEA) is 0x39CFF70
+[21:01:48] [debug] AMX backtrace:
+[21:01:48] [debug] #0 002212dc in player_MainMenu_ChangeTab (playerid=0, eventid=2) at modules/mainmenu/main.inc:17
+[21:01:48] [debug] #1 000f10ec in ShowCefPublic (playerid=0, id=44, BitStream:bs=1768592) at C:\Users\tkach\Desktop\гх\MODE-SLAYDERDEV-V8.X\gamemodes\new.pwn:19680
+[21:01:48] [debug] #2 0010d5e0 in public OnIncomingPacket (playerid=0, packetid=215, BitStream:bs=1768592) at C:\Users\tkach\Desktop\гх\MODE-SLAYDERDEV-V8.X\gamemodes\new.pwn:21859
+[21:01:48] [Pawn.RakNet] EveryScriptImpl: AMX error occurred in public OnIncomingPacket: Stack/heap collision (insufficient stack size)
+[21:01:51] kitsori[0] ShowCefPublic(PlayerImprove_OnPlayerBuy[66]) pID = 5
+[21:01:55] kitsori[0] ShowCefPublic(MainMenu_OnPlayerChangeTab[44]) pID = 5
+[21:01:55] mysql_query(type: '1', query: 'SELECT COUNT(*) FROM `OwnableCars` WHERE `Owner` = 'kitsori' AND `Owner_Type` = '0' LIMIT 1;')
+[21:01:55] kitsori[0] ShowCefPublic(MainMenu_OnPlayerCloseInterface[39]) pID = 5
+[21:01:56] kitsori[0] ShowCefPublic(OnPlayerDeviceLost[146]) pID = 5
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:03:53] filterscripts = ""  (string)
+[21:03:53] 
+[21:03:53] Server Plugins
+[21:03:53] --------------
+[21:03:53]  Loading plugin: crashdetect.dll
+[21:03:53]   CrashDetect plugin 4.21
+[21:03:53]   Loaded.
+[21:03:53]  Loading plugin: mysql.dll
+[21:03:53]  >> plugin.mysql: R41-3 successfully loaded.
+[21:03:53]   Loaded.
+[21:03:53]  Loading plugin: pawncmd.dll
+[21:03:53] [Pawn.CMD] plugin v3.4.0 loading...
+[21:03:53] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[21:03:53]   Loaded.
+[21:03:53]  Loading plugin: pawnraknet.dll
+[21:03:53] [Pawn.RakNet] plugin v1.5.1 loading...
+[21:03:53] [Pawn.RakNet] 
+
+    | Pawn.RakNet 1.5.1 | 2016 - 2021
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Sep 26 2021 at 12:04:10
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.RakNet
+    |--------------------------------------------------------------
+    | Wiki: https://github.com/katursis/Pawn.RakNet/wiki
+
+[21:03:53]   Loaded.
+[21:03:53]  Loading plugin: pawnregex.dll
+[21:03:53] [Pawn.Regex] plugin v1.2.3 loading...
+[21:03:53] [Pawn.Regex] 
+
+    | Pawn.Regex 1.2.3 | 2016 - 2021
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Sep 26 2021 at 11:59:38
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.Regex
+
+[21:03:53]   Loaded.
+[21:03:53]  Loading plugin: sscanf.dll
+[21:03:53] 
+
+[21:03:53]  ===============================
+
+[21:03:53]       sscanf plugin loaded.     
+
+[21:03:53]          Version:  2.8.3        
+
+[21:03:53]   (c) 2018 Alex "Y_Less" Cole  
+
+[21:03:53]  ===============================
+
+[21:03:53]   Loaded.
+[21:03:53]  Loading plugin: streamer.dll
+[21:03:53] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[21:03:53]   Loaded.
+[21:03:53]  Loading plugin: TOTP.dll
+[21:03:53] TOTP plugin v1.0.1 by Games loaded.
+[21:03:53]   Loaded.
+[21:03:53]  Loading plugin: SKY.dll
+[21:03:53] 
+[21:03:53]  ===============================
+[21:03:53]    
+[21:03:53]    < SKY - 2.4.2 >
+[21:03:53]    
+[21:03:53]    (c) 2008 - Present | YSF Maintainers
+[21:03:53]    (c) 2015 | Oscar "Slice" Broman
+[21:03:53]    
+[21:03:53]    Server Version: 0.3.7 R2
+[21:03:53]    Operating System: Windows
+[21:03:53]    Built on: Oct  6 2025 at 10:06:48
+[21:03:53]    
+[21:03:53]  ===============================
+[21:03:53] 
+[21:03:53]   Loaded.
+[21:03:53]  Loading plugin: log-plugin.dll
+[21:03:53]  >> plugin.log: vv0.5 successfully loaded.
+[21:03:53]   Loaded.
+[21:03:53]  Loaded 10 plugins.
+
+[21:03:53] 
+[21:03:53] Filterscripts
+[21:03:53] ---------------
+[21:03:53]   Loaded 0 filterscripts.
+
+[21:03:53] [TP]: Все входы/выходы созданы
+[21:03:53] mysql_query(type: '1', query: 'SELECT * FROM `Objects` WHERE 1')
+[21:03:53] [Objects]: Объектов загружено: 1
+[21:03:53] mysql_query(type: '1', query: 'SELECT WEEKDAY("2026-10-5")')
+[21:03:53] [Timing] OnGameModeInit: 13 ms
+[21:03:53] _______________________________________________________ 
+[21:03:53] 	developer SlayderDev
+[21:03:53] 	SLAYDER © 2020-2026, inc. all rights reserved.	
+[21:03:53] _______________________________________________________ 
+[21:03:53] Number of vehicle models: 0
+[21:03:53] [Houses]: Домов загружено -> 405
+[21:03:54] [Garages]: Гаражей загружено -> 337
+[21:03:54] [GreenZones]: зеленых зон загружено -> 48
+[21:03:54] [FRACTION]: Фракций загружено -> 0/10
+[21:03:54] [Familys]: UNKNOWN ( all stat -> 0)
+[21:03:54] [Entrance]: UNKNOWN ( all stat -> 0)
+[21:03:54] [Businesses]: Бизнесов загружено -> 114
+[21:04:11] [connection] 127.0.0.1:50111 requests connection cookie.
+[21:04:12] [connection] incoming connection: 127.0.0.1:50111 id: 0
+[21:04:47] [connection] 127.0.0.1:61125 requests connection cookie.
+[21:04:48] [connection] incoming connection: 127.0.0.1:61125 id: 0
+[21:04:48] [join] kitsori has joined the server (0:127.0.0.1)
+[21:04:48] client 0
+[21:05:13] kitsori[0] ShowCefPublic(OnPlayerDeviceRestore[147]) pID = 5
+[21:05:13] kitsori[0] ShowCefPublic(OnPlayerDeviceRestore[147]) pID = 5
+[21:05:15] kitsori[0] ShowCefPublic(OnPlayerClientSideKey[40]) pID = 5
+[21:05:17] kitsori[0] ShowCefPublic(OnPlayerClientSideKey[40]) pID = 5
+[21:05:18] kitsori[0] ShowCefPublic(OnAuthorizationStart[4]) pID = 5
+[21:05:18] player_AuthEnd(kitsori[0], kaneki1212)
+[21:05:18] player_AuthEnd(kitsori[0]) accept player_PreloadAccount
+[21:05:22] kitsori[0] ShowCefPublic(OnDialogResponse[5]) pID = 5
+[21:05:22] kitsori[0] used dialog: 20375[ ]
+[21:05:25] kitsori[0] ShowCefPublic(OnPlayerClientSideKey[40]) pID = 5
+[21:05:25] mysql_query(type: '1', query: 'SELECT COUNT(*) FROM `OwnableCars` WHERE `Owner` = 'kitsori' AND `Owner_Type` = '0' LIMIT 1;')
+[21:05:25] kitsori[0] ShowCefPublic(MainMenu_OnPlayerOpen[162]) pID = 5
+[21:05:26] kitsori[0] ShowCefPublic(MainMenu_OnPlayerChangeTab[44]) pID = 5
+[21:05:30] kitsori[0] ShowCefPublic(PlayerImprove_OnPlayerBuy[66]) pID = 5
+[21:05:30] mysql_query(type: '1', query: 'SELECT IF(11061111 < 75000, '1', '0') as comparison_result')
+[21:05:33] kitsori[0] ShowCefPublic(PlayerImprove_OnPlayerBuy[66]) pID = 5
+[21:05:33] mysql_query(type: '1', query: 'SELECT IF(10986111 < 100000, '1', '0') as comparison_result')
+[21:05:35] kitsori[0] ShowCefPublic(PlayerImprove_OnPlayerBuy[66]) pID = 5
+[21:05:35] mysql_query(type: '1', query: 'SELECT IF(10886111 < 125000, '1', '0') as comparison_result')
+[21:05:37] kitsori[0] ShowCefPublic(MainMenu_OnPlayerChangeTab[44]) pID = 5
+[21:05:37] mysql_query(type: '1', query: 'SELECT COUNT(*) FROM `OwnableCars` WHERE `Owner` = 'kitsori' AND `Owner_Type` = '0' LIMIT 1;')
+[21:05:38] kitsori[0] ShowCefPublic(MainMenu_OnPlayerCloseInterface[39]) pID = 5
+[21:05:38] kitsori[0] ShowCefPublic(OnPlayerDeviceLost[146]) pID = 5
